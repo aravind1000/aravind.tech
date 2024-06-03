@@ -1,4 +1,4 @@
-# My Portfolio <a href="https://aravind-tech.vercel.app/" target="_blank">Demo</a>
+# My Portfolio [Demo](https://aravind-tech.vercel.app/)
 
 This is a portfolio project showcasing my work and skills.
 
